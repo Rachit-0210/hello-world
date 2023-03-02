@@ -12,6 +12,10 @@
     <input type="text" placeholder="Enter Ram moible number" name="mobile" id="mobile" required>
     <br>
 
+    <label for="mobile"><b>Enter kidwai nagar address</b></label>
+    <input type="text" placeholder="Enter kidwai nagar number" name="mobile" id="mobile" required>
+    <br>
+
     <label for="mobile"><b>Enter home mobile</b></label>
     <input type="text" placeholder="Enter home  moible number" name="mobile" id="mobile" required>
     <br>
